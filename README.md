@@ -1,4 +1,4 @@
-# blinking_animation_icon_flutter
+# Blinking Animation Icon Flutter
 
 A new Flutter project.
 
